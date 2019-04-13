@@ -1,0 +1,15 @@
+C:\Users\nm\AppData\Local\Temporary Projects\Kalk\bin\Release\Kalk.exe
+C:\Users\nm\AppData\Local\Temporary Projects\Kalk\bin\Release\Kalk.pdb
+C:\Users\nm\AppData\Local\Temporary Projects\Kalk\obj\x86\Release\Kalk.Form1.resources
+C:\Users\nm\AppData\Local\Temporary Projects\Kalk\obj\x86\Release\Kalk.Properties.Resources.resources
+C:\Users\nm\AppData\Local\Temporary Projects\Kalk\obj\x86\Release\Kalk.csproj.GenerateResource.Cache
+C:\Users\nm\AppData\Local\Temporary Projects\Kalk\obj\x86\Release\Kalk.exe
+C:\Users\nm\AppData\Local\Temporary Projects\Kalk\obj\x86\Release\Kalk.pdb
+C:\Users\nm\documents\visual studio 2010\Projects\Kalk\Kalk\bin\Release\Kalk.exe
+C:\Users\nm\documents\visual studio 2010\Projects\Kalk\Kalk\bin\Release\Kalk.pdb
+C:\Users\nm\documents\visual studio 2010\Projects\Kalk\Kalk\obj\x86\Release\Kalk.Form1.resources
+C:\Users\nm\documents\visual studio 2010\Projects\Kalk\Kalk\obj\x86\Release\Kalk.Properties.Resources.resources
+C:\Users\nm\documents\visual studio 2010\Projects\Kalk\Kalk\obj\x86\Release\Kalk.csproj.GenerateResource.Cache
+C:\Users\nm\documents\visual studio 2010\Projects\Kalk\Kalk\obj\x86\Release\Kalk.exe
+C:\Users\nm\documents\visual studio 2010\Projects\Kalk\Kalk\obj\x86\Release\Kalk.pdb
+C:\Users\nm\documents\visual studio 2010\Projects\Kalk\Kalk\obj\x86\Release\Kalk.csprojResolveAssemblyReference.cache
